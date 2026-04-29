@@ -11,13 +11,13 @@ A visual representation of the year progress as seen in (yeartracker.png).
  
 ## Features
 
-*   *Live Progress Visualization*: A dynamic progress bar showing the percentage of the year completed.
+*   *Live Progress Visualization*: A dynamic progress bar showing the percentage of the year   completed.
 *   *Precision Tracking*: Real-time updates for the year percentage (to two decimal places).
-*   *Time Management*: Displays "Days Left" in the year and a "Time Left Today" countdown to encourage daily productivity.
+*   *Time Management*: Displays "Days Left" in the year and a "Time Left Today" countdown to  encourage daily productivity.
 *   *Modern UI*: A sleek, distraction-free dark mode interface.
 *   *Lightweight*: Zero dependencies; built purely with HTML, CSS, and Vanilla JavaScript.
 
-##  Built With
+##  Built With the following
 
 *   *HTML5*: Semantic structure.
 *   *CSS3*: Custom styling and responsive layout.
