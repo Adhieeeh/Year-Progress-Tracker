@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Year|Progress|Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 id="year">2025</h1>
+  <div class="subtitle">YEAR PROGRESS</div>
+
+  <div class="progress-bar">
+    <div class="progress-fill" id="progress-fill"></div>
+  </div>
+  <div class="progress-labels">
+    <span>Jan 1</span>
+    <span>Dec 31</span>
+  </div>
+
+  <div class="stats">
+    <div class="stat-block">
+      <div class="value" id="percent">--%</div>
+      <div class="label">COMPLETE</div>
+    </div>
+    <div class="stat-block">
+      <div class="value" id="days-left">--</div>
+      <div class="label">DAYS LEFT</div>
+    </div>
+    <div class="stat-block">
+      <div class="value" id="time">--:--</div>
+      <div class="label">CURRENT TIME</div>
+    </div>
+    <div class="stat-block">
+      <div class="value" id="day-left">--</div>
+      <div class="label">TIME LEFT TODAY</div>
+    </div>
+  </div>
+
+  <div class="date" id="today-date">Loading...</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
